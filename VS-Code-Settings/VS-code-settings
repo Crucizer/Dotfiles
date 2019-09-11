@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "Ayu Dark Bordered",
+    "window.zoomLevel": 1,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "ayu",
+    "workbench.settings.editor": "json",
+    "python.pythonPath": "C:\\Users\\dell\\AppData\\Local\\Programs\\Python\\Python36\\python.exe",
+    "python.formatting.provider": "autopep8",
+    "editor.formatOnSave": true,
+    "editor.quickSuggestionsDelay": 100,
+    "zenMode.centerLayout": false,
+    "zenMode.fullScreen": true,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.hideTabs": false,
+    "editor.minimap.enabled": true,
+    "workbench.settings.openDefaultSettings": true,
+    "workbench.statusBar.feedback.visible": true,
+}

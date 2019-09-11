@@ -1,0 +1,13 @@
+{
+    "swallow_startup_errors": true,
+    "anaconda_linter_mark_style": false,
+    "anaconda_linter_underlines": true,
+    "anaconda_gutter_theme": "basic",
+    "auto_formatting": true,
+     "anaconda_linter_underlines": false,
+    "anaconda_linter_mark_style": "none",
+    "display_signatures": false,
+    "anaconda_gutter_marks": false,
+    "anaconda_gutter_theme": "dark",
+
+}
