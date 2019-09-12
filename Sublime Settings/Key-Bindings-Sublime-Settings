@@ -1,0 +1,20 @@
+[
+	{ "keys": ["ctrl+q"], "command": "cancel_build" },
+	{ "keys": ["ctrl+/"], "command": "toggle_side_bar" },
+
+
+		{
+		"keys": ["alt+/"],
+		"command": "terminus_open",
+		"args" : {
+         	"cmd": "powershell.exe",
+            "cwd": "${file_path:${folder}}",
+            "panel_name": "Terminus"
+        }
+	},
+	{
+		"keys": ["alt+'"],
+		"command": "toggle_terminus_panel"
+	},
+
+]
