@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/ayu/ayu-dark.sublime-color-scheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "ayu-dark.sublime-theme",
+	"draw_minimap_border": false,
+	"use_simple_full_screen": true,
+	"show_full_path": false,
+
+}
