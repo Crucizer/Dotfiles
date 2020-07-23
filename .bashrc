@@ -1,3 +1,4 @@
+
 # Custom Stuff
 
 #Custom Alias
@@ -14,8 +15,9 @@ alias pip="pip3" # install pip3 first
 alias cdp="cd /mnt/2ADAC21CDAC1E463/Programming/; cls"
 alias jiofi="python3 /mnt/2ADAC21CDAC1E463/Programming/Projects/Web-Scraping/JioFi_Indicator/bat.py"
 alias wallpaper="python3 /mnt/2ADAC21CDAC1E463/Programming/Projects/Other/Wallpaper_Changer/wallpaper.py"
-alias manga="python3 /mnt/2ADAC21CDAC1E463/Programming/Projects/Selenium/Manga-Stable/Manga-Scraper/manga.py"
+alias manga="python3 /mnt/2ADAC21CDAC1E463/Programming/Projects/Selenium/Manga-Scraper/main.py"
 alias mobile="scrcpy" # Install scrcpy first
+alias cpp="cd /mnt/2ADAC21CDAC1E463/Programming/CP/;python3 cp.py"
 # alias ls="ls --hyperlink"
 
 # StartUp Location
@@ -37,3 +39,6 @@ export PS1;
 #cd "/mnt/2ADAC21CDAC1E463/Programming/"
 
 # Environmental Variables
+export manga_path="/mnt/2ADAC21CDAC1E463/Docs/Manga/"
+export chromedriver="/mnt/2ADAC21CDAC1E463/Apps/Ubuntu/ChromeDriver/80/chromedriver"
+#export check="True"
