@@ -1,12 +1,7 @@
 Package Control
-A File Icon
 Anaconda
-Ayu
 Emmet
-Material Theme
+Materialize
 SidebarEnhancements
 SublimeLinter
 Terminus
-Theme - Brogrammar
-Theme - DarkMatter
-zzz A File Icon zzz
