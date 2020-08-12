@@ -9,6 +9,7 @@ alias cls="clear"
 alias jupy="jupyter notebook" # install jupyter notebook
 alias rot13="tr 'A-Za-z' 'N-ZA-Mn-za-m'"
 alias xdg="xdg-open"
+alias default="xdg-open"
 alias py="python3"
 alias python="python3"
 alias pip="pip3" # install pip3 first
@@ -18,6 +19,9 @@ alias wallpaper="python3 /mnt/2ADAC21CDAC1E463/Programming/Projects/Other/Wallpa
 alias manga="python3 /mnt/2ADAC21CDAC1E463/Programming/Projects/Selenium/Manga-Scraper/main.py"
 alias mobile="scrcpy" # Install scrcpy first
 alias cpp="cd /mnt/2ADAC21CDAC1E463/Programming/CP/;python3 cp.py"
+alias scrcpyw="scrcpy --bit-rate 2M --max-size 800 --window-title 'Phone'"
+alias copy="xclip -selection clipboard"
+
 # alias ls="ls --hyperlink"
 
 # StartUp Location
@@ -39,6 +43,10 @@ export PS1;
 #cd "/mnt/2ADAC21CDAC1E463/Programming/"
 
 # Environmental Variables
-export manga_path="/mnt/2ADAC21CDAC1E463/Docs/Manga/"
-export chromedriver="/mnt/2ADAC21CDAC1E463/Apps/Ubuntu/ChromeDriver/80/chromedriver"
+export manga_path="/mnt/2ADAC21CDAC1E463/Docs/Manga/Kissmanga/"
+export chromedriver="/mnt/2ADAC21CDAC1E463/Apps/Ubuntu/ChromeDriver/84/chromedriver"
+export PATH=~/.npm-global/bin:$PATH
 #export check="True"
+
+
+eval "$(thefuck --alias)"
