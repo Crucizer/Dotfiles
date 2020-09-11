@@ -1,4 +1,3 @@
-
 # Custom Stuff
 
 #Custom Alias
@@ -8,8 +7,7 @@ alias cpclip="xclip -selection clipboard"
 alias cls="clear"
 alias jupy="jupyter notebook" # install jupyter notebook
 alias rot13="tr 'A-Za-z' 'N-ZA-Mn-za-m'"
-alias xdg="xdg-open"
-alias default="xdg-open"
+alias open="xdg-open"
 alias py="python3"
 alias python="python3"
 alias pip="pip3" # install pip3 first
@@ -21,6 +19,8 @@ alias mobile="scrcpy" # Install scrcpy first
 alias cpp="cd /mnt/2ADAC21CDAC1E463/Programming/CP/;python3 cp.py"
 alias scrcpyw="scrcpy --bit-rate 2M --max-size 800 --window-title 'Phone'"
 alias copy="xclip -selection clipboard"
+alias vpn="sudo protonvpn c -f"
+alias please="sudo"
 
 # alias ls="ls --hyperlink"
 
@@ -45,6 +45,7 @@ export PS1;
 # Environmental Variables
 export manga_path="/mnt/2ADAC21CDAC1E463/Docs/Manga/Kissmanga/"
 export chromedriver="/mnt/2ADAC21CDAC1E463/Apps/Ubuntu/ChromeDriver/84/chromedriver"
+export PATH=$PATH:/Users/denis/.npm-global/bin
 export PATH=~/.npm-global/bin:$PATH
 #export check="True"
 
