@@ -21,6 +21,7 @@ alias scrcpyw="scrcpy --bit-rate 2M --max-size 800 --window-title 'Phone'"
 alias copy="xclip -selection clipboard"
 alias vpn="sudo protonvpn c -f"
 alias please="sudo"
+alias remind="python3 /mnt/2ADAC21CDAC1E463/Programming/Others/Reminder/remind.py"
 
 # alias ls="ls --hyperlink"
 
@@ -32,8 +33,8 @@ green=$(tput setaf 47)
 bold=$(tput bold)
 
 PS1="\[${bold}\]"
-PS1+="\[${green}\]Ayush@";
-PS1+="\[${green}\]Pinkman:";
+PS1+="\[${green}\]pinkman@";
+PS1+="\[${green}\]senpai:";
 PS1+="\[${green}\]\w "
 PS1+="\[${green}\]\n"
 PS1+="\[${green}\]$ "
@@ -45,9 +46,6 @@ export PS1;
 # Environmental Variables
 export manga_path="/mnt/2ADAC21CDAC1E463/Docs/Manga/Kissmanga/"
 export chromedriver="/mnt/2ADAC21CDAC1E463/Apps/Ubuntu/ChromeDriver/84/chromedriver"
-export PATH=$PATH:/Users/denis/.npm-global/bin
-export PATH=~/.npm-global/bin:$PATH
-#export check="True"
 
 
-eval "$(thefuck --alias)"
+# eval "$(thefuck --alias)"
