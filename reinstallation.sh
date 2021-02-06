@@ -1,8 +1,4 @@
-# Update
-
 sudo apt update
-
-# Install lots of important packages
 
 sudo apt install telegram-desktop mpv gnome-tweaks git synaptic vlc plank python3-pip gimp qtorrent ubuntu-restricted-extras scrcpy kdeconnect apt-transport-https libqt5svg5 qml-module-qtquick-controls software-properties-common wget neofetch linux-headers-`uname -r` gcc make curl gnupg cmatrix flameshot obs-studio audacity htop stacer vim
 
@@ -62,8 +58,10 @@ sudo apt update
 
 sudo apt-get install spotify-client sublime-text gdebi-core
 
-sudo apt install ./google-chrome-stable_current_amd64.deb code brave-browser signal-desktop
+sudo apt install ./google-chrome-stable_current_amd64.deb code brave-browser signal-desktop 
 
 
+# Other programs
 
+echo Go install discord from the official website
 
