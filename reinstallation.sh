@@ -13,6 +13,8 @@ wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add
 
 echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
 
+# Celluloid Installation
+sudo add-apt-repository ppa:xuzhen666/gnome-mpv
 
 # Chrome installation 
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
@@ -56,7 +58,7 @@ sudo apt update
 
 # Installing programs
 
-sudo apt-get install spotify-client sublime-text gdebi-core
+sudo apt-get install spotify-client sublime-text gdebi-core celluloid
 
 sudo apt install ./google-chrome-stable_current_amd64.deb code brave-browser signal-desktop 
 
