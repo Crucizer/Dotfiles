@@ -58,9 +58,9 @@ sudo apt update
 
 # Installing programs
 
-sudo apt-get install spotify-client sublime-text gdebi-core celluloid
+sudo apt-get install spotify-client sublime-text gdebi-core 
 
-sudo apt install ./google-chrome-stable_current_amd64.deb code brave-browser signal-desktop 
+sudo apt install ./google-chrome-stable_current_amd64.deb code brave-browser signal-desktop celluloid
 
 
 # Other programs
