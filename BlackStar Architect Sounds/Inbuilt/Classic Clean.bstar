@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Sound CE="1" CS="1" LastModified="17/04/2021 14:16:29" FirmwareVersion="4">
+  <Info>
+    <Name>Classic Clean</Name>
+    <Creator>Architect</Creator>
+    <Genre>-1</Genre>
+    <SubGenre>-1</SubGenre>
+    <SearchTags></SearchTags>
+    <About></About>
+  </Info>
+  <Amplifier>
+    <Voice>0</Voice>
+    <Gain>76</Gain>
+    <Volume>62</Volume>
+    <Bass>94</Bass>
+    <Middle>30</Middle>
+    <Treble>51</Treble>
+    <ISF>51</ISF>
+    <TVP Status="1">0</TVP>
+    <Presence>49</Presence>
+    <Resonance>88</Resonance>
+  </Amplifier>
+  <EffectsChain Focused="0">
+    <Delay Status="0" Position="0">
+      <Types Linear="16" Analogue="17" Tape="21" Multi="25">2</Types>
+      <Adjust1>23</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>111</Level>
+      <Tempo>362</Tempo>
+    </Delay>
+    <Reverb Status="1" Position="0">
+      <Types Room="29" Hall="33" Spring="37" Plate="41">3</Types>
+      <Adjust1>17</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>35</Level>
+    </Reverb>
+    <Modulation Status="0" Position="0">
+      <Types Phaser="0" Flanger="50" Chorus="52" Tremolo="12">3</Types>
+      <Adjust1>11</Adjust1>
+      <Adjust2>1</Adjust2>
+      <Level>31</Level>
+      <Rate>28</Rate>
+    </Modulation>
+    <NoiseGate Status="0">
+      <Sensibility>18</Sensibility>
+      <Amount>29</Amount>
+    </NoiseGate>
+  </EffectsChain>
+  <Tuner>0</Tuner>
+  <Bench>0</Bench>
+  <Audio>
+    <Metronome Type="0">120</Metronome>
+    <Track Repeat="0">NO TRACK</Track>
+  </Audio>
+</Sound>

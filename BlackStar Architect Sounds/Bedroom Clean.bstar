@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Sound CE="1" CS="1" LastModified="17/04/2021 14:16:12" FirmwareVersion="4">
+  <Info>
+    <Name>Bedroom Clean</Name>
+    <Creator>Architect</Creator>
+    <Genre>-1</Genre>
+    <SubGenre>-1</SubGenre>
+    <SearchTags></SearchTags>
+    <About>Simple patch which I can play daily.</About>
+  </Info>
+  <Amplifier>
+    <Voice>1</Voice>
+    <Gain>35</Gain>
+    <Volume>62</Volume>
+    <Bass>17</Bass>
+    <Middle>41</Middle>
+    <Treble>46</Treble>
+    <ISF>0</ISF>
+    <TVP Status="1">0</TVP>
+    <Presence>60</Presence>
+    <Resonance>80</Resonance>
+  </Amplifier>
+  <EffectsChain Focused="0">
+    <Delay Status="0" Position="0">
+      <Types Linear="16" Analogue="17" Tape="21" Multi="25">0</Types>
+      <Adjust1>10</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>50</Level>
+      <Tempo>512</Tempo>
+    </Delay>
+    <Reverb Status="1" Position="0">
+      <Types Room="29" Hall="33" Spring="37" Plate="41">0</Types>
+      <Adjust1>10</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>71</Level>
+    </Reverb>
+    <Modulation Status="0" Position="0">
+      <Types Phaser="0" Flanger="50" Chorus="52" Tremolo="12">0</Types>
+      <Adjust1>10</Adjust1>
+      <Adjust2>64</Adjust2>
+      <Level>50</Level>
+      <Rate>50</Rate>
+    </Modulation>
+    <NoiseGate Status="0">
+      <Sensibility>30</Sensibility>
+      <Amount>25</Amount>
+    </NoiseGate>
+  </EffectsChain>
+  <Tuner>0</Tuner>
+  <Bench>0</Bench>
+  <Audio>
+    <Metronome Type="0">120</Metronome>
+    <Track Repeat="0">NO TRACK</Track>
+  </Audio>
+</Sound>

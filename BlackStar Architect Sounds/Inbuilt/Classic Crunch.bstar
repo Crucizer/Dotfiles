@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Sound CE="1" CS="1" LastModified="17/04/2021 14:16:57" FirmwareVersion="4">
+  <Info>
+    <Name>Classic Crunch</Name>
+    <Creator>Architect</Creator>
+    <Genre>-1</Genre>
+    <SubGenre>-1</SubGenre>
+    <SearchTags></SearchTags>
+    <About></About>
+  </Info>
+  <Amplifier>
+    <Voice>2</Voice>
+    <Gain>81</Gain>
+    <Volume>62</Volume>
+    <Bass>102</Bass>
+    <Middle>45</Middle>
+    <Treble>40</Treble>
+    <ISF>83</ISF>
+    <TVP Status="1">4</TVP>
+    <Presence>34</Presence>
+    <Resonance>92</Resonance>
+  </Amplifier>
+  <EffectsChain Focused="0">
+    <Delay Status="0" Position="0">
+      <Types Linear="16" Analogue="17" Tape="21" Multi="25">1</Types>
+      <Adjust1>24</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>78</Level>
+      <Tempo>224</Tempo>
+    </Delay>
+    <Reverb Status="1" Position="0">
+      <Types Room="29" Hall="33" Spring="37" Plate="41">1</Types>
+      <Adjust1>6</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>19</Level>
+    </Reverb>
+    <Modulation Status="1" Position="0">
+      <Types Phaser="0" Flanger="50" Chorus="52" Tremolo="12">1</Types>
+      <Adjust1>7</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>9</Level>
+      <Rate>36</Rate>
+    </Modulation>
+    <NoiseGate Status="0">
+      <Sensibility>32</Sensibility>
+      <Amount>21</Amount>
+    </NoiseGate>
+  </EffectsChain>
+  <Tuner>0</Tuner>
+  <Bench>0</Bench>
+  <Audio>
+    <Metronome Type="0">120</Metronome>
+    <Track Repeat="0">NO TRACK</Track>
+  </Audio>
+</Sound>

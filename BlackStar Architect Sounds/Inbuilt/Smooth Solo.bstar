@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Sound CE="1" CS="1" LastModified="17/04/2021 14:17:10" FirmwareVersion="4">
+  <Info>
+    <Name>Smooth Solo</Name>
+    <Creator>Architect</Creator>
+    <Genre>-1</Genre>
+    <SubGenre>-1</SubGenre>
+    <SearchTags></SearchTags>
+    <About></About>
+  </Info>
+  <Amplifier>
+    <Voice>4</Voice>
+    <Gain>114</Gain>
+    <Volume>62</Volume>
+    <Bass>98</Bass>
+    <Middle>83</Middle>
+    <Treble>42</Treble>
+    <ISF>104</ISF>
+    <TVP Status="1">4</TVP>
+    <Presence>23</Presence>
+    <Resonance>125</Resonance>
+  </Amplifier>
+  <EffectsChain Focused="0">
+    <Delay Status="1" Position="0">
+      <Types Linear="16" Analogue="17" Tape="21" Multi="25">3</Types>
+      <Adjust1>18</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>63</Level>
+      <Tempo>665</Tempo>
+    </Delay>
+    <Reverb Status="1" Position="0">
+      <Types Room="29" Hall="33" Spring="37" Plate="41">3</Types>
+      <Adjust1>12</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>33</Level>
+    </Reverb>
+    <Modulation Status="0" Position="0">
+      <Types Phaser="0" Flanger="50" Chorus="52" Tremolo="12">0</Types>
+      <Adjust1>1</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>20</Level>
+      <Rate>24</Rate>
+    </Modulation>
+    <NoiseGate Status="1">
+      <Sensibility>16</Sensibility>
+      <Amount>16</Amount>
+    </NoiseGate>
+  </EffectsChain>
+  <Tuner>0</Tuner>
+  <Bench>0</Bench>
+  <Audio>
+    <Metronome Type="0">120</Metronome>
+    <Track Repeat="0">NO TRACK</Track>
+  </Audio>
+</Sound>
